@@ -34,3 +34,9 @@ Cookie Sent:
   
 Profile Page:  
 <img width="1440" alt="profile-page" src="https://github.com/deepparekh02/user-login-registration/assets/65657471/2b8b9f5e-4de6-43ef-8086-f77ec16612b0">
+
+**Video Demo**   
+
+https://github.com/deepparekh02/user-login-registration/assets/65657471/43726355-2ed9-4f74-af2b-019d50bb31e5
+
+
