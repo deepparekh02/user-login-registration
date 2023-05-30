@@ -116,7 +116,7 @@ const RegisterPageComponent = ({
                 isInvalid={!passwordsMatchState}
               />
               <Form.Control.Feedback type="invalid">
-                Please anter a valid password
+                Please enter a valid password
               </Form.Control.Feedback>
               <Form.Text className="text-muted">
                 Password should have at least 6 characters
