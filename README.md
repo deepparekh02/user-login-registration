@@ -15,7 +15,15 @@ MongoDB, Mongoose, Express, React, React-Bootstrap, Axios, NodeJS, BcryptJS, JSO
 6) Password encrypted and stored on the MongoDB database.
 
 **Screenshots**  
+  
+Register Page:
 <img width="1440" alt="register-page" src="https://github.com/deepparekh02/user-login-registration/assets/65657471/63453a0a-3c1d-43d7-8bf8-5d7045b1abca">
+  
+Login Page:
 <img width="1440" alt="login-page" src="https://github.com/deepparekh02/user-login-registration/assets/65657471/d600ecf9-1ced-4b83-9bd3-271bb636eb83">
+  
+Cookie Sent:
 <img width="1440" alt="cookie-sent" src="https://github.com/deepparekh02/user-login-registration/assets/65657471/d6dbd94a-60ea-4b61-825b-985be86b467f">
+  
+Profile Page:  
 <img width="1440" alt="profile-page" src="https://github.com/deepparekh02/user-login-registration/assets/65657471/2b8b9f5e-4de6-43ef-8086-f77ec16612b0">
