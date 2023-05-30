@@ -3,7 +3,7 @@
 **Table of Contents**
 1) Description
 2) Technologies and Libraries
-3) Main Featuresa
+3) Main Features
 4) Screenshots
 5) Video Demo
   
