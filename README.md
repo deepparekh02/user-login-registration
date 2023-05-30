@@ -6,6 +6,8 @@
 3) Main Features
 4) Screenshots
 5) Video Demo
+
+***
   
 **Description**  
 This is a full-stack application designed to maintain a database of users and allow them to securely log in and register through the portal. This could be extended to many reaL-life applications like social media and streaming services.
@@ -21,6 +23,8 @@ MongoDB, Mongoose, Express, React, React-Bootstrap, Axios, NodeJS, BcryptJS, JSO
 5) 'Do not logout' option enabled by sending cookies to the user's browser.
 6) Password encrypted and stored on the MongoDB database.
 
+***
+
 **Screenshots**  
   
 Register Page:
@@ -34,3 +38,13 @@ Cookie Sent:
   
 Profile Page:  
 <img width="1440" alt="profile-page" src="https://github.com/deepparekh02/user-login-registration/assets/65657471/2b8b9f5e-4de6-43ef-8086-f77ec16612b0">
+
+***
+
+**Video Demo**   
+
+https://github.com/deepparekh02/user-login-registration/assets/65657471/95a6195c-1043-4c48-9187-dedf7776ce9d
+
+
+
+
