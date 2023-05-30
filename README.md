@@ -1,5 +1,12 @@
 # user-login-registration
 
+**Table of Contents**
+1) Description
+2) Technologies and Libraries
+3) Main Featuresa
+4) Screenshots
+5) Video Demo
+  
 **Description**  
 This is a full-stack application designed to maintain a database of users and allow them to securely log in and register through the portal. This could be extended to many reaL-life applications like social media and streaming services.
 
